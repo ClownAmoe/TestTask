@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://picsum.photos/200",
+      "name": "Product name1",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://picsum.photos/200",
+      "name": "Product name1",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://picsum.photos/200",
+      "name": "Product name2",
+      "count": 4,
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "weight": "200g",
+      "comments": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://picsum.photos/200",
+      "name": "Product name3",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://picsum.photos/200",
+      "name": "Product name4",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://picsum.photos/200",
+      "name": "Product name5",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 32,
+      "imageUrl": "https://picsum.photos/200",
+      "name": "dfsfsdfsd",
+      "count": 2,
+      "size": {
+        "width": 32432,
+        "height": 32423
+      },
+      "weight": "sfdfsd3",
+      "comments": []
+    },
+    {
+      "id": 234,
+      "imageUrl": "https://picsum.photos/200",
+      "name": "name",
+      "count": 5,
+      "size": {
+        "width": 300,
+        "height": 300
+      },
+      "weight": "200g",
+      "comments": []
+    },
+    {
+      "id": 324,
+      "imageUrl": "https://picsum.photos/200",
+      "name": "dsfsdf",
+      "count": 3,
+      "size": {
+        "width": 344,
+        "height": 344
+      },
+      "weight": "400g",
+      "comments": []
+    }
+  ],
+  "comments": [
+    {
+      "id": 3,
+      "productId": 1,
+      "description": "Nice product!",
+      "date": "14:00 22.08.2021"
+    },
+    {
+      "id": 5,
+      "productId": 1,
+      "description": "I love it!",
+      "date": "16:30 23.08.2021"
+    }
+  ]
+}
